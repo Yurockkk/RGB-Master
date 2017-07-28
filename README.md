@@ -1,4 +1,4 @@
-# Project Title
+# RGB-Master
 
 One Paragraph of project description goes here
 
