@@ -21,7 +21,7 @@ h1{
 	width: 15%;
 	font-weight: inherit;
 	font-weight: 700;
-	font-size: 1.5vh;
+	font-size: 2vh;
 
 }
 
@@ -38,7 +38,7 @@ button{
 	-webkit-transition:background-color all 0.3s;
 	-moz-transition:background-color all 0.3s;
 	outline: none;
-	font-size: 3vh;
+	font-size: 2.75vh;
 }
 
 button:hover{
