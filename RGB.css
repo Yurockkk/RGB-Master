@@ -37,6 +37,7 @@ button{
 	-webkit-transition:background-color all 0.3s;
 	-moz-transition:background-color all 0.3s;
 	outline: none;
+	font-size: 3vh;
 }
 
 button:hover{
@@ -65,7 +66,7 @@ button:hover{
 
 #stripe{
 	background-color: white;
-	height: 30 px;
+	line-height: 10vh;
 	text-align: center;
 
 }
