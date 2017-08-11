@@ -18,9 +18,10 @@ h1{
 #message{
 	color: steelblue;
 	display: inline-block;
-	width: 20%;
+	width: 15%;
 	font-weight: inherit;
 	font-weight: 700;
+	font-size: 2.5vh;
 
 }
 
